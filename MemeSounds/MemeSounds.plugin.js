@@ -36,8 +36,8 @@ module.exports = (() => {
 				{re: /bazinga/gmi, file: "bazinga.mp3", duration: 550},
 				{re: /oof/gmi, file: "oof.mp3", duration: 250},
 				{re: /bruh/gmi, file: "bruh.mp3", duration: 470},
-				{re: /bruh/gmi, file: "oof.mp3", duration: 250}
-				OWOWOOWOWOWOWOWO
+				{re: /bruh/gmi, file: "oof.mp3", duration: 250},
+				{re: /culo/gmi, file: "oof.mp3", duration: 250}
 			];
 
 			/* Double message event fix */
